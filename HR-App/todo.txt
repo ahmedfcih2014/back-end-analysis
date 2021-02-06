@@ -1,0 +1,5 @@
+1- write desc [done]
+2- draw architecture diagram [done]
+3- ERD
+4- Class Diagram
+5- Activity Diagram

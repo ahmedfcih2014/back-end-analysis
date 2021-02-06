@@ -1,0 +1,8 @@
+at this folder we will explain a simple analysis for an HR software
+
+this software to manage employees
+1- data
+2- job titles
+3- attendance & leaves
+4- deduction & bonuses
+5- advances & salaries

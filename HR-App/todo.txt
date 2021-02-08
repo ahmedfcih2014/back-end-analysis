@@ -2,4 +2,4 @@
 2- draw architecture diagram [done]
 3- ERD [done]
 4- Class Diagram
-5- Activity Diagram
+5- Activity Diagrams [done]

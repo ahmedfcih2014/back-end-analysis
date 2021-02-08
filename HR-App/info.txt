@@ -6,3 +6,10 @@ this software to manage employees
 3- attendance & leaves
 4- deduction & bonuses
 5- advances & salaries
+
+CRUD Diagram apply for those :
+1- data
+2- job titles
+3- attendance & leaves
+4- deduction & bonuses
+5- advances

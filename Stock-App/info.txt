@@ -1,0 +1,21 @@
+at this folder we will explain a simple analysis for an Stock software
+
+this software will manage
+1- Stocks
+2- Products Data [categories ,units & products]
+3- Suppliers
+4- Customers
+5- Purchase Bills [its returns]
+6- Sales Bills [its returns]
+
+reports provided by this software
+1- Sales report
+2- Purchases report
+3- Stocks Check report
+
+TODO:
+1- Architecture Diagram [done]
+2- CRUD Activity Diagram [done]
+3- ERD Diagram
+4- Class Diagram
+5- Reports Activity Diagram
